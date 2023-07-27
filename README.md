@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Welcome to My GitHub Profile! 
 </h2>
 <p>You can take a look at <a href="https://www.aloredotech.com">my portfolio website.</a></p>
