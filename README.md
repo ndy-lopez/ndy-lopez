@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <h2>Welcome to My GitHub Profile! 
-Feel free to visit my [portfolio website](https://www.aloredotech.com)
 </h2>
-
+<p>You can take a look at <a href="https://wwww.aloredotech.com">my portfolio website.</a></p>
 
 <h3>About Me</h3>
 
